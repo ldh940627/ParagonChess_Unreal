@@ -33,8 +33,6 @@ HISM 기반 타일 렌더링으로 비용 절감
 
 Capacity 시스템 적용 (레벨에 따른 필드 최대 유닛 수 자동 증가)
 
-Preparation 단계에서만 활성화
-
 🖱️ 2.3 Drag & Drop System (서버 검증 기반)
 
 Ghost Actor로 부드러운 클라이언트 UX 제공
